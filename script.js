@@ -38,5 +38,3 @@ function cityFunction(city = "karachi") {
 }
 
 console.log(cityFunction("Lahore"));
-
-//
